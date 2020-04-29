@@ -67,6 +67,7 @@ footer a{
     color:white;
 }
 
+/*Not really needed*/
 footer a:hover{
     opacity: -5;
     background-color: transparent;
